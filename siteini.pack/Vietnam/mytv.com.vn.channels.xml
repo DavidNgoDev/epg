@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/52.11 -- Jan van Straaten" site="mytv.com.vn">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/52.11 -- Jan van Straaten" site="mytv.com.vn">
   <channels>
     <channel update="i" site="mytv.com.vn" site_id="1" xmltv_id="VTV1">VTV1</channel>
     <channel update="i" site="mytv.com.vn" site_id="2" xmltv_id="VTV3">VTV3</channel>
@@ -120,4 +120,4 @@
     <channel update="i" site="mytv.com.vn" site_id="166" xmltv_id="QPVN">QPVN</channel>
     <channel update="i" site="mytv.com.vn" site_id="167" xmltv_id="HTVC Mua sắm, tiêu dùng">HTVC Mua sắm, tiêu dùng</channel>
   </channels>
-</site>
+</tv>
